@@ -6,7 +6,6 @@ Environment: python3  pip3
 pip3 install Django
 pip3 install pymysql
 pip3 install django-cors-headers
-
 ```
 Run:
 ```
